@@ -21,7 +21,7 @@
 
 |               PlugCharger                 |                MoveBucket              |               PushChair             |              OpenCabinetDoor               |               OpenCabinetDrawer              | 
 | :---------------------------------: | :------------------------------: | :--------------------------------: | :------------------------------: | :------------------------------: |
-| <img src="figs/PlugCharger.gif" width="134" height="134"/> | <img src="figs/MoveBucket.gif" width="134" height="134"/> | <img src="figs/PushChair.gif" width=width="134" height="134"/> | <img src="figs/OpenCabinetDoor.gif" width="134" height="134"/>| <img src="figs/OpenCabinetDrawer.gif" width="134" height="134"/>| 
+| <img src="figs/PlugCharger.gif" width="134" height="134"/> | <img src="figs/MoveBucket.gif" width="134" height="134"/> | <img src="figs/PushChair.gif" width="134" height="134"/> | <img src="figs/OpenCabinetDoor.gif" width="134" height="134"/>| <img src="figs/OpenCabinetDrawer.gif" width="134" height="134"/>| 
 
 
 

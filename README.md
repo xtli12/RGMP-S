@@ -11,11 +11,17 @@
 | :---------------------------------: | 
 | <img src="figs/Generalization_grasping.gif" width="680" height="475"/> |
 
+### ⏳ Long-horizon Manipulation Tasks 🚀
+
+|                Towel folding                 |                 Pouring water              |                Bin picking             |
+| :---------------------------------: | :------------------------------: | :--------------------------------: |
+| <img src="figs/Towel.gif" width="245" height="270"/> | <img src="figs/pour.gif" width="245" height="270"/> | <img src="figs/bin-pick.gif" width="245" height="270"/> |
+
 ### 🔥 RGMP-S Generalization Performance in Maniskill2 Simulator 🚀
 
 |               PlugCharger                 |                MoveBucket              |               PushChair             |              OpenCabinetDoor               |               OpenCabinetDrawer              | 
 | :---------------------------------: | :------------------------------: | :--------------------------------: | :------------------------------: | :------------------------------: |
-| <img src="figs/PlugCharger.gif" width="170" height="170"/> | <img src="figs/MoveBucket.gif" width="170" height="170"/> | <img src="figs/PushChair.gif" width="170" height="170"/> | <img src="figs/OpenCabinetDoor.gif" width="170" height="170"/>| <img src="figs/OpenCabinetDrawer.gif" width="170" height="170"/>| 
+| <img src="figs/PlugCharger.gif" width="134" height="134"/> | <img src="figs/MoveBucket.gif" width="134" height="134"/> | <img src="figs/PushChair.gif" width=width="134" height="134"/> | <img src="figs/OpenCabinetDoor.gif" width="134" height="134"/>| <img src="figs/OpenCabinetDrawer.gif" width="134" height="134"/>| 
 
 
 

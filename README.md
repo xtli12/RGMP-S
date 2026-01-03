@@ -1,5 +1,5 @@
-## 🌟RGMP-S: Recurrent Geometric-prior Multimodal Policy for Generalizable Humanoid Robot Manipulation 🤖✨
-#### An end-to-end framework that unifies geometric-semantic skill reasoning with data-efficient visuomotor control using RASNet (Recursive Adaptive Spiking Network) ([Paper and Appendix](https://arxiv.org/pdf/2511.09141))
+## 🌟Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation 🤖✨
+#### An end-to-end framework that unifies long-horizon geometric-semantic skill reasoning with data-efficient visuomotor control using RASNet (Recursive Adaptive Spiking Network)
 ### 🤝 Human-Robot Interaction Videos 🎥
 #### 👀 For the full video with sound, please refer to this [link](https://github.com/user-attachments/assets/254453e5-4dbd-43a4-81e8-907bb9d43f3c). 
 

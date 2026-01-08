@@ -15,7 +15,7 @@
 
 |                Towel folding                 |                 Pouring water              |                Bin picking             |
 | :---------------------------------: | :------------------------------: | :--------------------------------: |
-| <img src="figs/Towel.gif" width="245" height="270"/> | <img src="figs/pour.gif" width="245" height="270"/> | <img src="figs/bin-pick.gif" width="245" height="270"/> |
+| <img src="figs/Towel.gif" width="245" height="270"/> | <img src="figs/pour.gif" width="245" height="270"/> | <img src="figs/binpick.gif" width="245" height="270"/> |
 
 ### 🔥 RGMP-S Generalization Performance in Maniskill2 Simulator 🚀
 
